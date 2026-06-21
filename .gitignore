@@ -5,8 +5,6 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Output files
-outputs/
 
 # Virtual environments
 venv/
